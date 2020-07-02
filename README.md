@@ -9,3 +9,8 @@ Given the list of flights [('A', 'B'), ('A', 'C'), ('B', 'C'), ('C', 'A')] and s
 
 **TO RUN SPEC:**
 _rspec spec/main_spec.rb_
+
+**TO RUN EXAMPLES:**
+_ruby examples/example1.rb_
+_ruby examples/example2.rb_
+_ruby examples/example3.rb_
