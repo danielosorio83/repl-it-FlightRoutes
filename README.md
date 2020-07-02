@@ -6,11 +6,18 @@ Given the list of flights [('SFO', 'COM'), ('COM', 'YYZ')] and starting airport 
 
 Given the list of flights [('A', 'B'), ('A', 'C'), ('B', 'C'), ('C', 'A')] and starting airport 'A', you should return the list ['A', 'B', 'C', 'A', 'C'] even though ['A', 'C', 'A', 'B', 'C'] is also a valid itinerary. However, the first one is lexicographically smaller.
 
+----
 
 **TO RUN SPEC:**
+
 _rspec spec/main_spec.rb_
 
+----
+
 **TO RUN EXAMPLES:**
+
 _ruby examples/example1.rb_
+
 _ruby examples/example2.rb_
+
 _ruby examples/example3.rb_
